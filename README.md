@@ -118,10 +118,7 @@ docker push <ecr-url>
 ## 📸 Screenshots
 
 ![alt text](image.png)
-
-```md
-![Home Page](screenshots/home.png)
-```
+![alt text](image-1.png)
 
 ---
 
